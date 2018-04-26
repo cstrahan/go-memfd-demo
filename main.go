@@ -1,3 +1,8 @@
+// TODO:
+// - wrap mremap
+// - grow memory mapping as necessary
+// - impl. basic client/server
+
 // https://godoc.org/golang.org/x/exp/mmap
 
 // Look here to figure out how to pass FDs over domain socket:
